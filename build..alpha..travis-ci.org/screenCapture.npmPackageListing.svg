@@ -1,20 +1,20 @@
 <svg height="270" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="270" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 23:15:00 +0000    47714 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 23:15:00 +0000     3219 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 23:15:00 +0000     1077 bytes  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 23:15:00 +0000     3551 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 23:15:00 +0000     2186 bytes  addon/mixins/resize-aware.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 23:15:00 +0000     2654 bytes  addon/services/resize.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 23:15:00 +0000      712 bytes  app/initializers/resize.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 23:15:00 +0000       60 bytes  app/mixins/resize-aware.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 23:15:00 +0000       55 bytes  app/services/resize.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 23:15:00 +0000      260 bytes  config/environment.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 23:15:00 +0000      153 bytes  ember-resize.sublime-project</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 23:15:00 +0000    28088 bytes  ember-resize.sublime-workspace</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 23:15:00 +0000       84 bytes  index.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 23:15:00 +0000     3412 bytes  package.json</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 23:15:00 +0000     2203 bytes  testem.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 04:53:42 +0000    47714 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 04:53:42 +0000     3219 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 04:53:42 +0000     1077 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 04:53:42 +0000     3551 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 04:53:42 +0000     2186 bytes  addon/mixins/resize-aware.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 04:53:42 +0000     2654 bytes  addon/services/resize.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 04:53:42 +0000      712 bytes  app/initializers/resize.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 04:53:42 +0000       60 bytes  app/mixins/resize-aware.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 04:53:42 +0000       55 bytes  app/services/resize.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 04:53:42 +0000      260 bytes  config/environment.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 04:53:42 +0000      153 bytes  ember-resize.sublime-project</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 04:53:42 +0000    28088 bytes  ember-resize.sublime-workspace</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 04:53:42 +0000       84 bytes  index.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 04:53:42 +0000     3412 bytes  package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 04:53:42 +0000     2203 bytes  testem.json</tspan>
 </text>
 </svg>
